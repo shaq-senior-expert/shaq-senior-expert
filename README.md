@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Kein Wiryono
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> Hi, I'm Kein Wiryono
 
 I'm a seasoned frontend developer / UX/UI designer passionate about blending design and development. I've got strong leadership skills, creative team management, and branding consistency in digital and print media. I thrive in roles that allow me to flex my creative muscle while giving me a place to further my development skills.
 
