@@ -1,13 +1,10 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> Hi, I'm Kein Wiryono
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> Hi, I'm Andika Mihan
 
-I'm a seasoned frontend developer / UX/UI designer passionate about blending design and development. I've got strong leadership skills, creative team management, and branding consistency in digital and print media. I thrive in roles that allow me to flex my creative muscle while giving me a place to further my development skills.
+Proficient Full Stack Developer with significant experience as a contributor to the development of web/mobile application technology solutions for front end, back end, and database applications. I am a highly motivated, adaptable, and proactive young professional with strong knowledge of the software development lifecycle, including requirements gathering and analysis, design specifications, programming, testing, and implementation. A reliable hard worker and dedicated team player who works well under pressure. 
 
-I love writing about web development, design, and general agency life. Follow what I have to say on [Medium](https://medium.com/@sr.softmaster15).
+Follow what I have to say on [Medium](https://medium.com/@sr.softmaster15).
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kein-wiryono-b3214323b/)
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@sr.softmaster15)
-
-Also, be sure to take a look at [my portfolio of work](https://www.behance.net/keinwiryono).
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/andika-mihan-182b83240/)
 
 ---
 
